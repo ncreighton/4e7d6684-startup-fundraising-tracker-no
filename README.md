@@ -1,2 +1,30 @@
-# 4e7d6684-startup-fundraising-tracker-no
-Comprehensive Notion workspace for startup founders managing seed to Series A fundraising. Includes an investor CRM with relationship stage tracking, meeting notes, and warm intro mapping. Features a cap table calculator, term sheet comparison matrix, data room checklist, pitch deck version tracker, and weekly metrics dashboard for investor updates
+# Startup Fundraising Tracker Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmaEXbHh1g04pq9rKcZa3f)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmaEXbHh1g04pq9rKcZa3f)
+- [Buy on Whop](https://whop.com/startup-fundraising-tracker-notion-template)
+
